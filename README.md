@@ -30,6 +30,9 @@ npm install @robingenz/capacitor-android-dark-mode-support
 npx cap sync
 ```
 
+This plugin will use the following project variables (defined in your app’s `variables.gradle` file):
+- `$androidxWebkitVersion` version of `androidx.webkit:webkit` (default: `1.2.0`)
+
 ## Configuration
 
 No configuration required for this plugin.
