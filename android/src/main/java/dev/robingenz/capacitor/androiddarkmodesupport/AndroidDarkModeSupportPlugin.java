@@ -1,7 +1,6 @@
 package dev.robingenz.capacitor.androiddarkmodesupport;
 
 import android.content.res.Configuration;
-
 import com.getcapacitor.Plugin;
 import com.getcapacitor.annotation.CapacitorPlugin;
 
