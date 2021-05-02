@@ -47,7 +47,7 @@ A working example can be found here: [robingenz/capacitor-plugin-demo](https://g
 
 The plugin only needs to be installed.
 
-It enables the correct behavior of the CSS media function [`prefers-color-scheme`](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme) CSS media feature.
+It enables the correct behavior of the [`prefers-color-scheme`](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme) CSS media feature.
 
 ## Changelog
 
