@@ -4,13 +4,12 @@ import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.Configuration;
 import android.webkit.WebSettings;
-
 import androidx.webkit.WebSettingsCompat;
 import androidx.webkit.WebViewFeature;
-
 import com.getcapacitor.Bridge;
 
 public class AndroidDarkModeSupport {
+
     private Context context;
     private Bridge bridge;
 
