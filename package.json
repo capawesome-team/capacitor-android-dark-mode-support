@@ -25,14 +25,16 @@
     "verify:android": "cd android && ./gradlew clean build test && cd ..",
     "lint": "npm run prettier -- --check",
     "fmt": "npm run prettier -- --write",
-    "prettier": "prettier \"**/*.{css,html,ts,js,java}\""
+    "prettier": "prettier \"**/*.{css,html,ts,js,java}\"",
+    "release": "standard-version"
   },
   "devDependencies": {
     "@capacitor/android": "3.0.0-rc.1",
     "@capacitor/cli": "3.0.0-rc.1",
     "@ionic/prettier-config": "1.0.1",
     "prettier": "2.2.0",
-    "prettier-plugin-java": "1.0.0"
+    "prettier-plugin-java": "1.0.0",
+    "standard-version": "9.2.0"
   },
   "peerDependencies": {
     "@capacitor/core": "^3.0.0-rc.0"
