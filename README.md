@@ -51,8 +51,8 @@ It enables the correct behavior of the [`prefers-color-scheme`](https://develope
 
 ## Changelog
 
-See [CHANGELOG.md](https://github.com/robingenz/capacitor-android-dark-mode-support/blob/master/CHANGELOG.md).
+See [CHANGELOG.md](https://github.com/robingenz/capacitor-android-dark-mode-support/blob/main/CHANGELOG.md).
 
 ## License
 
-See [LICENSE](https://github.com/robingenz/capacitor-android-dark-mode-support/blob/master/LICENSE).
+See [LICENSE](https://github.com/robingenz/capacitor-android-dark-mode-support/blob/main/LICENSE).
