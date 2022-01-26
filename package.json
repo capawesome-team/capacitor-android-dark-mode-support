@@ -1,6 +1,6 @@
 {
   "name": "@robingenz/capacitor-android-dark-mode-support",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Capacitor plugin to support dark mode on Android.",
   "files": [
     "android/src/main/",
