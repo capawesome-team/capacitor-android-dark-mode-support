@@ -29,8 +29,8 @@
     "release": "standard-version"
   },
   "devDependencies": {
-    "@capacitor/android": "3.0.0",
-    "@capacitor/cli": "3.0.0",
+    "@capacitor/android": "3.4.0",
+    "@capacitor/cli": "3.4.0",
     "@ionic/prettier-config": "1.0.1",
     "prettier": "2.2.0",
     "prettier-plugin-java": "1.0.0",
