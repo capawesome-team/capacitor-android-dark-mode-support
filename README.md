@@ -39,7 +39,7 @@ npx cap sync
 ### Variables
 
 This plugin will use the following project variables (defined in your app’s `variables.gradle` file):
-- `$androidxWebkitVersion` version of `androidx.webkit:webkit` (default: `1.2.0`)
+- `$androidxWebkitVersion` version of `androidx.webkit:webkit` (default: `1.6.1`)
 
 ## Configuration
 
