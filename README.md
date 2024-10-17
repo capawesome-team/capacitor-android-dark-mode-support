@@ -1,6 +1,6 @@
 ## ⚠️ Deprecated repository
 
-**Capacitor now officially supports dark mode on Android. See this [comment](https://github.com/ionic-team/capacitor/issues/4677#issuecomment-1126274884).**
+**This project has been moved to the following monorepo: [capawesome-team/capacitor-plugins](https://github.com/capawesome-team/capacitor-plugins).**
 
 -----
 
